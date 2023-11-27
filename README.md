@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to the passionate Software Developer profile!</h1>
+<h1 align="center">Hi there 👋 welcome to my GitHub profile!</h1>
 
-Hi there 👋
+
 
 I'm Pablo, **Python Full Stack Developer** with a strong foundation in many modern technologies, including programming languages such as Python(Flask, Django) and JavaScript(jQuery), database development(SQL, Django ORM), frontend development with CSS(Sass, Bootstrap), HTML and React.
 
@@ -14,3 +14,14 @@ I'm actively seeking a Software Developer role in the tech industry where I can 
 
 [![Gmail Badge](https://img.shields.io/badge/-pabloembarach@gmail.com-333333?style=for-the-badge&logo=Gmail&logoColor=white&style=plastic&logoWidth=20&labelColor=c14438&link=mailto:pabloembarach@gmail.com)](mailto:pabloembarach@gmail.com)
 [<img src='https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logoWidth=20&labelColor=0077B5' alt='Telegram'>](https://www.linkedin.com/in/pablo-embarach-boeira)
+
+<h2 align='center'>Tech Stack</h2>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Pablo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pablo-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+</div>
