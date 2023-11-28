@@ -107,7 +107,7 @@ Users of this game will learn the rules of Rock Paper and Scissosrs so thay can 
 </table>
 
 <!-- Hackathon Projects -->
-<h2 align='center'> &#128187; Hackathons</h2>
+<h2 align='center'> Hackathons</h2>
 
 | Name | Hackathon | Certificate |
 | :---: | :---: | :---: |
