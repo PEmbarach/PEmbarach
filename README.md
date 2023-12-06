@@ -45,7 +45,7 @@ I'm actively seeking a Software Developer role in the tech industry where I can 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/PEmbarach/coffeeie"><img width="900" src="https://github.com/PEmbarach/portfolio_peb/blob/master/src/assets/readme-images/Portfolio.png" alt="Coffeeie Responsive Mockup"></a>
+      <a href="https://github.com/PEmbarach/coffeeie"><img width="900" src="https://github.com/PEmbarach/coffeeie/blob/main/src/assets/readme-images/amiresponsive.png" alt="Coffeeie Responsive Mockup"></a>
     </td>
     <td>
      Coffeeie is a community for coffee lovers. With the aim of sharing experiences and connecting people around Dublin. With a social network-style, that seeks interactivity between users, encouraging them to post their experiences. It was developed thinking of anyone who enjoys good coffee or is interested in coffee culture.
